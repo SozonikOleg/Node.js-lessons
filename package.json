@@ -18,11 +18,14 @@
   },
   "homepage": "https://github.com/SozonikOleg/Node.js-lessons#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
     "express": "^4.17.1",
     "http": "0.0.0",
     "jsonwebtoken": "^8.5.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.1",
+    "socket.io": "^2.3.0",
     "websocket": "^1.0.31",
     "ws": "^7.2.0"
   },
